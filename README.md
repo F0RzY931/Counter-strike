@@ -1,1 +1,1 @@
-# -Counter-strike
+# Counter-strike
